@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Samuel Samson Achonu 👋.<br>I'm a Full Stack Developer 💻 Who Lives in Lagos, Nigeria 📍.<br>My tech stacks and tools include React JS, Node JS, Python, C++ (Ish) 👀, Git, Framer, and Any Web Development stacks.<br>I'm a College Student in my 2nd year pursuing a comp sci degree.<br>I love building Ui components and stuff that engage users and build user experience.<br>I'm looking forward to collaborating with developers out there and contribute to Projects.<br>I'm constantly learning and improving 💻.<br>And I'll love to work with you.<br>✌
+Hi I'm Samuel Sampson Achonu 👋.<br>I'm a Full Stack Developer 💻 Who Lives in Lagos, Nigeria 📍.<br>My tech stacks and tools include React JS, Node JS, Python, C++ (Ish) 👀, Git, Framer, and Any Web Development stacks.<br>I'm a College Student in my 2nd year pursuing a comp sci degree.<br>I love building Ui components and stuff that engage users and build user experience.<br>I'm looking forward to collaborating with developers out there and contribute to Projects.<br>I'm constantly learning and improving 💻.<br>And I'll love to work with you.<br>✌
 
 
 ## 🌐 Socials:
