@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Full Stack Developer 💻 Who Lives in Lagos, Nigeria 📍. My tech stacks and tools include React JS, Node JS, Python, C++ (Ish) 👀, Git, Framer, and Any Web Development stacks. I'm a College Student in my 2nd year pursuing a comp sci degree. I love building Ui components and stuff that engage users and build user experience. I'm looking forward to collaborating with developers out there and contribute to Projects. I'm constantly learning and improving 💻. And I'll love to work with you. ✌
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My-Portfolio](http://https://github.com/samuel-samson06)
+* 🖥️  See my portfolio at [My-Portfolio](https://github.com/samuel-samson06)
 * ✉️  You can contact me at [a.samuelsamson@gmail.com](mailto:a.samuelsamson@gmail.com)
-* 🚀  I'm currently working on [SPARKTOPUS](http://https://www.sparktopus.com/)
+* 🚀  I'm currently working on [SPARKTOPUS](https://www.sparktopus.com/)
 * 🧠  I'm learning React Native & Advanced Express
 * 🤝  I'm open to collaborating on Any Projects 😊
 * ⚡  I'm not a Tech guy "allegedly".
