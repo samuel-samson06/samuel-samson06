@@ -9,7 +9,8 @@ I'm a Full Stack Developer 💻 Who Lives in Lagos, Nigeria 📍. My tech stacks
 * 🚀  I'm currently working on [SPARKTOPUS](https://www.sparktopus.com/)
 * 🧠  I'm learning React Native & Advanced Express
 * 🤝  I'm open to collaborating on Any Projects 😊
-* ⚡  I'm not a Tech guy "allegedly".
+* ⚡  I'm a Tech guy.
+* 🌎  My SaaS [LingCoach](https://www.lingcoach.com)
 
 ### Skills
 
