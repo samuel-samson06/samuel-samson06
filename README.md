@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a Full Stack Developer 💻 Who Lives in Lagos, Nigeria 📍. My tech stacks and tools include React JS, Node JS, Python, odoo, Git, and Any Web Development stacks. I'm a College Student in my 3rd year pursuing a computer science degree. I love building Ui components and stuff that engage users and build user experience. I'm looking forward to collaborating with developers out there and contribute to Projects. I'm constantly learning and improving 💻. And I'll love to work with you. ✌
+I'm a Full Stack Developer 💻 Who Lives in Lagos, Nigeria 📍. My tech stacks and tools include ReactJS, NextJS, Node JS, Python, odoo, Git, and Any Web Development stacks. I'm a College Student in my 3rd year pursuing a computer science degree. I love building Ui components and stuff that engage users and build user experience. I'm looking forward to collaborating with developers out there and contribute to Projects. I'm constantly learning and improving 💻. And I'll love to work with you. ✌
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_ace_codes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/the_ace_codes) 
